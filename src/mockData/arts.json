@@ -1,0 +1,393 @@
+[
+			{
+				"id": "0001",
+				"pictureName": "Italian Cafe",
+				"painter": "Thomas Kinkade",
+                "lifeAndCountry": "1958 - 2012, USA",
+				"image": "https://thomaskinkade.com/wp-content/uploads/2017/07/itlncf.jpg",
+				"body": " Let Thomas Kinkade Studios immerse you in the fertile hills of Italy's finest vineyards, on the salty shores of the Mediterranean. If ever a place could carry everyday worries with it, then it would be here. As has been the case for a century, shopkeepers are sprinkling streets and entrances with water to limit the amount of dust and sand brought in overnight. At the beginning of the day, a young woman brings a loaf of bread, an elderly artist sets up his pallet and homemade easel to capture the sea and sails. This painting reflects all the subtle aspects of southern Sicily.",
+				"dimention": "61 x 91.5 cm",
+				"matherial": "oil on stretched canvas",
+                "year": "2017", 
+                "language": "en"
+            },
+            			
+		    {
+				"id": "0002",
+				"pictureName": "Irises",
+				"painter": "Vicent Van Gogh",
+                "lifeAndCountry": "1853 - 1890, France",
+				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Irises-Vincent_van_Gogh.jpg/1024px-Irises-Vincent_van_Gogh.jpg",
+				"body": "One of the most famous pieces of artwork, Irises was painted by Vincent van Gogh in 1889. Created during his stay at an asylum in France, Irises was inspired by the flower gardens that encompassed the hospital. The painting traces the influence of Japanese ukiyo-e prints, as well as in other works of Van Gogh and some of his contemporaries. This similarity is manifested in the selection of the contours of objects, unusual angles, the presence of detailed areas filled with a solid color that does not correspond to reality. Van Gogh used nature and the walls around him as inspiration to paint more than 130 paintings.",
+				"dimention": "74.3 × 94.3 cm",
+				"matherial": "oil on canvas",
+                "year": "1889",
+                "language": "en"
+            },
+    			
+            {
+				"id": "0003",
+				"pictureName": "Transverse Lines",
+				"painter": "Vassily Kandinsky",
+                "lifeAndCountry": "1866 - 1944, Russia",
+				"image": "https://mkisartykulait.pbworks.com/f/transverse_lines.PNG",
+				"body": " Wassily Kandinsky was a Russian painter and an art theorist. Kandinsky lived through the first World War. This experience may have somewhat influenced his pieces. He painted the first modern abstract works. He also focused mainly on the point and line. He analyzed the points and lines in a piece through the point of view their 'inner effect' on the observer.",
+				"dimention": "141 x 202 cm",
+				"matherial": "oil on canvas",
+                "year": "1923",
+                "language": "en"
+			},
+		    {
+				"id": "0004",
+				"pictureName": "Portrait of an Unknown Woman",
+				"painter": "Ivan Kramskoi",
+                "lifeAndCountry": "1837 – 1887, Russia",
+				"image": "https://images-na.ssl-images-amazon.com/images/I/91xuI2KerCL._AC_SL1500_.jpg",
+				"body": "The canvas depicts a young woman driving in an open carriage along Nevsky Prospekt near the pavilions of the Anichkov Palace. On the right, behind her, the Alexandrinsky Theater is visible. She is dressed in the latest fashion of the 1880s. She wears a velvet hat with feathers, a coat decorated with fur and ribbons, a muff and thin leather gloves. The look is regal, mysterious and a little sad. It is one of Russia's best-known art works, although a number of critics were indignant when the painting was first exhibited and condemned what they saw as a depiction of a haughty and immoral woman.",
+				"dimention": "75.5 × 99 cm",
+				"matherial": "oil on canvas",
+                "year": "1883",
+                "language": "en"
+            },
+        	{
+				"id": "0005",
+				"pictureName": "Golden Autumn",
+				"painter": "Isaac Levitan",
+                "lifeAndCountry": "1860 – 1900, Russia",
+				"image": "https://i2.wp.com/parkstone.international/wp-content/uploads/2018/09/13.jpg?resize=1024%2C843&ssl=1",
+				"body": " Isaac Ilyich Levitan was a classical Russian landscape painter who advanced the genre of the “mood landscape”.The painting depicts a small river surrounded by trees covered with yellow and red autumn foliage. In the distance, you can see village houses, fields, and further, on the horizon, an autumn forest, painted in shades of yellow. And above all this is the blue sky, on which light clouds float. The bright, major, optimistic colors of this picture are not characteristic of Levitan's work - he usually used softer and softer tones. This picture amazes and captures the fullness and beauty of its emotional content, so definitely expressed in color splendor, in the major sound of a golden color scale",
+				"dimention": "82 × 126 cm",
+				"matherial": "oil on canvas",
+                "year": "1896",
+                "language": "en"
+            },
+            	{
+				"id": "0006",
+				"pictureName": "The Persistence of Memory",
+				"painter": "Salvador Dalí",
+                "lifeAndCountry": "1904 – 1989, France",
+				"image": "https://www.moma.org/media/W1siZiIsIjM4NjQ3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=fdc1ab6baa7f5400",
+				"body": "Salvador Dalí's famous melting clock painting. The softness of hanging and flowing clocks is an image that expresses a departure from the linear understanding of time. Dali himself is present here in the form of a sleeping head. Dali himself is present here in the form of a sleeping head. Time lends perspective. And its passage profoundly effects how we see, and interact with, our previous creative work. This is vividly illustrated in the work of an artist whose name has become almost synonymous with the portrayal of emblems of time, Salvador Dalí. The Persistence of Salvador Dalí in the Collective Memory.",
+				"dimention": "24 × 33 cm",
+				"matherial": "oil on canvas",
+                "year": "1931",
+                "language": "en"
+			},
+		
+
+			{
+				"id": "0007",
+				"pictureName": "Sunrise(Marine)",
+				"painter": "Claude Monet",
+                "lifeAndCountry": "1840 – 1926, France",
+				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sunrise_by_Claude_Monet%2C_1873%2C_Getty_Center.JPG/1122px-Sunrise_by_Claude_Monet%2C_1873%2C_Getty_Center.JPG",
+				"body": " Claude Monet in the muted palette of the emerging dawn, Claude Monet portrayed the industrial port of Le Havre on the northern coast of France. The brilliant orange of the rising sun glimmers amid the damp air and dances on the gentle rippling water, lighting up its iridescent blues and greens. Barely discernible through a cool haze, pack boats on the left billow smoke from their stacks. Painted during the spring of 1873 as the country struggled to rebuild following the Franco-Prussian war, this Sunrise might also metaphorically suggest a new day dawning in France.",
+				"dimention": "141 x 202 cm",
+				"matherial": "oil on canvas",
+                "year": "1872 or 1873",
+                "language": "en"
+			},
+			{
+				"id": "0008",
+				"pictureName": "American shipping off the rock of Gibraltar",
+				"painter": "Ivan Konstantinovich Aivazovsky",
+                "lifeAndCountry": "1817 - 1900, Russia",
+				"image": "https://wpainting.ru/images/hudozhniki/ajvazovskij/opisanie-kartiny-amerikanskie-suda-u-skaly-gibraltara/1.jpg",
+				"body": "Ivan Konstantinovich Aivazovsky presents to the artistic viewer the moment of the “culmination” of the struggle between American courts and the elements. It conveys a sensation on the verge of life and death with the help of a bright, almost unnatural color of the sky. The artist in this picture does not make the sea a terrible and merciless monster. There are no dark dense shades in his image, on the contrary, Aivazovsky chooses a light blue color. The water looks light and clear, not dangerous at all. Behind the ships you can see the pinkish silhouette of the rock of Gibraltar.",
+				"dimention": "109 x 131 cm",
+				"matherial": "oil on canvas",
+                "year": "1873",
+                "language": "en"
+            },
+            {
+				"id": "0009",
+				"pictureName": "Stage Design for Cleopatra",
+				"painter": "Robert Delaunay",
+                "lifeAndCountry": "1885 - 1941, France",
+				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stage_Design_for_Cleopatra_MET_DP272854.jpg/1199px-Stage_Design_for_Cleopatra_MET_DP272854.jpg",
+				"body": " Robert Delaunay  was a French artist who, with his wife Sonia Delaunay and others, co-founded the Orphism art movement, noted for its use of strong colours and geometric shapes. In 1917 the Delaunay met Sergei Diaghilev in Madrid. Robert designed the stage for his production of Cleopatra Ballet.",
+				"dimention": "34.9 x 47.3 cm",
+				"matherial": "watercolor, gouache, metallic paint, and graphite on paper",
+                "year": "circa 1918",
+                "language": "en"
+			},
+            	{
+				"id": "0010",
+				"pictureName": "Girl with Peaches",
+				"painter": "Valentin Alexandrovich Serov",
+                "lifeAndCountry": "1865-1911, Russia",
+				"image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Walentin_Alexandrowitsch_Serow_Girl_with_Peaches.jpg",
+				"body": "The painting depicts 11-year-old Vera Mamontova, a daughter of Russian entrepreneur and patron of the arts Savva Mamontov. It was painted at Abramtsevo, an estate not far from Moscow. Under the ownership of the writer Sergei Aksakov, Abramtsevo had become one of the centers of Russian culture. Mamontov bought the place in 1870 and continued the tradition. Among people who stayed there were painter Ilya Repin, writer Ivan Turgenev, painter Mikhail Vrubel, and sculptor Mark Antokolsky. It was a comfortable place for artists not only to gather and discuss important topics, but to live and create.",
+				"dimention": "91 × 85 cm",
+				"matherial": "oil on canvas",
+                "year": "1887",
+                "language": "en"
+			},
+		
+            {
+				"id": "0011",
+				"pictureName": "White sheep with crown",
+				"painter": "Menashe Kadishman",
+                "lifeAndCountry": "1932 – 2015, Israel",
+				"image": "https://images.artbrokerage.com/artthumb/kadishman_136718_6/1250x1118/Menashe_Kadishman_White_Sheep_With_Crown_1990_35x28.Large.jpg",
+				"body": "Menashe Kadishman was Israeli painter and sculptor. His works are exhibited in the central squares of many cities in Israel, and his paintings are in various art galleries in Israel.In the 50's, while doing his artistic training, Menashe Kadishman worked as a shepherd in a kibbutz. This experience had an effect on him and influenced his art, as he displayed a flock of colorful sheep during the Venice biennial in 1978. This was the main theme of his work.",
+				"dimention": "35 x 28 cm",
+				"matherial": "acrylic on canvas",
+                "year": "1990",
+                "language": "en"
+			},
+	
+            
+			{
+				"id": "0012",
+				"pictureName": "Dama con l'ermellino",
+				"painter": "Leonardo da Vinci",
+                "lifeAndCountry": "1452 – 1519, Italy",
+				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Dama_z_gronostajem.jpg/381px-Dama_z_gronostajem.jpg",
+				"body": "This is a portrait of Cecilia Gallerani - the mistress of Lodovico Sforza, nicknamed Il Moro, Duke of Milan. Following the Florentine patterns of the 1470s, Leonardo painted his model to the waist, thus getting the opportunity to show her hands. Their movement is conveyed with great psychological accuracy, allowing to capture the hidden spiritual influence. Cecilia's fingers, with tremulous caution, tenderly touch the fur of a fearful animal, an ermine, located in her hands. The good state of preservation of those parts of the painting, which depict a woman's face and the figure of an ermine, reveals a high level of skill.",
+				"dimention": "54 × 40 cm",
+				"matherial": "oil on wood",
+                "year": "1489–1490",
+                "language": "en"
+			},
+			{
+				"id": "0013",
+				"pictureName": "A Rider",
+				"painter": "Karl Bryullov",
+                "lifeAndCountry": "1799 – 1852, Russia",
+				"image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/1832._BRULLOV_VSADNICA1.jpg",
+				"body": "A young rider in a rich, elegant outfit, returning from a walk, holding her head high, boldly and decisively pacifies the horse, which is trying to rears up. And the alarmed little girl, clutching the rail, as if spellbound, looks at her sister and what is happening. Little girl, the embodiment of an angel. She is in a pink dress, with beautiful curls on her head. And without fear in her eyes, like her older sister. The painting 'A Rider' is a typical example of a portrait-painting in which everything is conceived as the apotheosis of beauty and cheerful youth, as the apotheosis of the serenity of the sensation of life, and all this is contained in two characters - a young horsewoman and a little girl. ",
+				"dimention": "291.5 × 206 cm",
+				"matherial": "oil on canvas",
+                "year": "1832",
+                "language": "en"
+            },
+      		{
+				"id": "0014",
+				"pictureName": "Vase of Flowers",
+				"painter": "Jan Davidszoon de Heem",
+                "lifeAndCountry": "1606 – 1684, Nitherlands",
+				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vase_of_Flowers_painting_by_Jan_Davidsz._de_Heem_Mauritshuis_1099.jpg/1200px-Vase_of_Flowers_painting_by_Jan_Davidsz._de_Heem_Mauritshuis_1099.jpg",
+				"body": "Jan Davidszoon de Heem was one of the most gifted, versatile, and influential still-life artists of his age. His refined technique allowed him to portray a great variety of textures that captured the very essence of the objects, including the petals of exotic flowers; long bent reeds of wheat; minute creatures such as butterflies, ants, snails, and caterpillars; and finally, the reflective surfaces of glass.. In this work, De Heem creates a harmonious arrangement by balancing the colors and shapes of thirty-one types of flowers, vegetables, and grains. Despite the illusion of reality, this bouquet could have never actually existed, as the various flowers would have bloomed in different seasons.",
+				"dimention": "74.2 x 52.6 cm",
+				"matherial": "oil on canvas",
+                "year": "circa 1670",
+                "language": "en"
+			},
+		
+	
+			{
+				"id": "0015",
+				"pictureName": "Woman and flowers",
+				"painter": "Mirit Ben-Nun",
+                "lifeAndCountry": "8 of August 1966, Israel",
+				"image": "https://www.artmajeur.com/medias/hd/d/e/deborah-shallman/artwork/13008821_20200209-095050.jpg",
+				"body": " Mirit Ben-Nun keeps on returning to her art of meticulous decoration. A strong presence of primitive ornamentation provides the artwork with a tribal facet on one hand and a feminine touch on the other, encompassing embroidery, bead threading and weaving among others. Ben- Nuns beautifying urge carries within it an archetypal strata, mythic at times, which empowers her authentic expression.",
+				"dimention": "35 x 25 cm",
+				"matherial": "ink on paper",
+                "year": "2020",
+                "language": "en"
+            },
+             {
+                "id": "0001",
+                "pictureName": "Итальянское кафе",
+                "painter": "Студия Томаса Кинкейда",
+                "lifeAndCountry": "1958 - 2012, США",
+                "image": "https://thomaskinkade.com/wp-content/uploads/2017/07/itlncf.jpg",
+                "body": "Позвольте Студии Томаса Кинкейда погрузить вас в плодородные холмы лучших виноградников Италии, на соленые берега Средиземного моря. Если когда-либо место могло унести с собой повседневные заботы, то оно было бы здесь. Как и на протяжении столетий, владельцы магазинов поливают улицы и подъезды водой, чтобы ограничить количество пыли и песка, занесенных за ночь. В начале дня молодая женщина приносит буханку хлеба, а пожилой художник устанавливает свой поддон и самодельный мольберт, чтобы запечатлеть море и паруса. В этой картине отражены все тонкие аспекты южной Сицилии.",
+                "dimention": " 61 x 91,5 см",
+                "matherial": "Холст, масло",
+                "year": "2017",
+                "language": "ru"
+            },
+              {
+
+                "id": "0002",
+                "pictureName": "Ирисы",
+                "painter": "Винсент Ван Гог",
+                "lifeAndCountry": "1853 - 1890, Франция",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Irises-Vincent_van_Gogh.jpg/1024px-Irises-Vincent_van_Gogh.jpg",
+                "body": "Одно из самых известных произведений искусства, Ирисы были написаны Винсентом Ван Гогом в 1889 году. Созданные во время его пребывания в приюте во Франции, Ирисы были вдохновлены цветочными садами, окружавшими больницу.  В картине прослеживается влияние японских гравюр укиё-э, как и в других работах Ван Гога и части его современников. Это сходство проявляется в выделении контуров объектов, необычных ракурсах, наличии детально прорисованных областей, залитых сплошным цветом, не соответствующим реальности. Ван Гог использовал природу и стены вокруг себя как источник вдохновения для написания более 130 картин.",
+                "dimention": "74,3 × 94,3 см",
+                "matherial": "Холст, масло",
+                 "year": "1889",
+                 "language": "ru"
+            },
+                 {
+                "id": "0003",
+                "pictureName": "Поперечные линии",
+                "painter": "Василий Кандинский",
+                "lifeAndCountry": "1866 - 1944, Россия",
+                "image": "https://mkisartykulait.pbworks.com/f/transverse_lines.PNG",
+                "body": "Василий Кандинский был русским художником и теоретиком искусства. Кандинский пережил Первую мировую войну. Этот опыт мог несколько повлиять на его произведения. Написал первые современные абстрактные работы. Он также сосредоточился в основном на точке и линии. Он проанализировал точки и линии в произведении с точки зрения их «внутреннего воздействия» на наблюдателя.",
+                "dimention": "141 x 202 см",
+                "matherial": "Холст, масло",
+                "year": "1923",
+                "language": "ru"
+                
+            },
+            {
+                "id": "0004",
+                "pictureName": "Неизвестная",
+                "painter": "Иван Крамской",
+                "lifeAndCountry": "1837 – 1887, Россия",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91xuI2KerCL._AC_SL1500_.jpg",
+                "body": "На полотне изображена молодая женщина, проезжающая в открытом экипаже по Невскому проспекту у павильонов Аничкова дворца. Справа за её спиной виднеется Александринский театр. Она одета по последней моде 1880-х годов. На ней бархатная шляпка с перьями, украшенное мехом и лентами пальто, муфта и тонкие кожаные перчатки. Взгляд царственный, таинственный и немного грустный. Это одно из самых известных произведений искусства в России, хотя ряд критиков были возмущены, когда картина была впервые выставлена, и осудили то, что они считали изображением надменной и аморальной женщины.",
+                "dimention": "75,5 × 99 см",
+                "matherial": "Холст, масло",
+                "year": "1883",
+                "language": "ru"
+                
+            }, 
+                  {
+                "id": "0005",
+                "pictureName": "Золотая осень",
+                "painter": "Исаак Левитан",
+                "lifeAndCountry": "1860-1900, Россия",
+                "image": "https://i2.wp.com/parkstone.international/wp-content/uploads/2018/09/13.jpg?resize=1024%2C843&ssl=1",
+                "body": "Исаак Ильич Левитан был русским классиком-пейзажистом, продвинувшим жанр «пейзажа настроения». На картине изображена небольшая река, окружённая деревьями, покрытыми жёлтой и красной осенней листвой. Вдали видны деревенские домики, поля, а далее, на горизонте — осенний лес, окрашенный в оттенки жёлтого цвета. А надо всем этим — голубое небо, по которому плывут светлые облака. Яркие, мажорные, оптимистические цвета этой картины не являются характерными для творчества Левитана — обычно он использовал более мягкие и нежные тона. Картина поражает и захватывает полноту и красоту своего эмоционального содержания, столь ярко выраженного в цветовой пышности, в главном звучании золотой цветовой гаммы.",
+                "dimention": "82 × 126 см",
+                "matherial": "Холст, масло ",
+                "year": "1896",
+                "language": "ru"
+            },
+        
+                    
+            {
+                "id": "0006",
+                "pictureName": "Постоянство памяти",
+                "painter": "Сальвадор Дали",
+                "lifeAndCountry": "1904 – 1989, Франция",
+                "image": "https://www.moma.org/media/W1siZiIsIjM4NjQ3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=fdc1ab6baa7f5400",
+                "body": "Знаменитая картина Сальвадора Дали с текучими часами. Размягченность висящих и стекающих часов — образ, выражающий уход от линейного понимания времени. Здесь присутствует и сам Дали в виде спящей головыени. Здесь присутствует и сам Дали в виде спящей головы. Время дает перспективу. И его прохождение глубоко влияет на то, как мы видим нашу предыдущую творческую работу и взаимодействуем с ней. Это ярко показано в творчестве Сальвадора Дали, художника, чье имя стало почти синонимом изображения эмблем времени. Постоянство Сальвадора Дали в коллективной памяти.",
+                "dimention": "24 × 33 см",
+                "matherial": "Холст, масло",
+                "year": "1931",
+                "language": "ru"
+               
+            },                               
+            {
+                "id": "0007",
+                "pictureName": "Восход солнца (Гавань)",
+                "painter": "Клод Моне",
+                "lifeAndCountry": "1840 – 1926, Франция",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sunrise_by_Claude_Monet%2C_1873%2C_Getty_Center.JPG/1122px-Sunrise_by_Claude_Monet%2C_1873%2C_Getty_Center.JPG",
+                "body": "В приглушенной палитре зарождающегося рассвета Клод Моне изобразил промышленный порт Гавр на северном побережье Франции. Яркий оранжевый восходящего солнца мерцает среди влажного воздуха и танцует на нежной ряби воде, освещая ее переливчатые синие и зеленые тона. Едва различимые из-за прохладной дымки, вьючные лодки слева поднимают дым из своих штабелей. Написанный весной 1873 года, когда страна изо всех сил пыталась отстроиться после франко-прусской войны, этот восход может также метафорически указывать на наступление нового дня во Франции.",
+                "dimention": "141 x 202 см",
+                "matherial": "Холст, масло",
+                "year": "1872 или 1873",
+                "language": "ru"
+                
+            },
+                
+            {
+                "id": "0008",
+                "pictureName": "Американские суда у скалы Гибралтара",
+                "painter": "Иван Константинович Айвазовский",
+                "lifeAndCountry": "1817 - 1900, Россия",  
+                "image": "https://wpainting.ru/images/hudozhniki/ajvazovskij/opisanie-kartiny-amerikanskie-suda-u-skaly-gibraltara/1.jpg",
+                "body": "Иван Константинович Айвазовский представляет художественному зрителю момент «кульминации» борьбы американских судов со стихией. Он передает ощущение граней жизни и смерти с помощью яркого, почти неестественного цвета неба. Художник на этой картине не превращает море в ужасное и беспощадное чудовище. В его образе нет темных плотных оттенков, напротив, Айвазовский выбирает светло-голубой цвет. Вода кажется легкой и прозрачной, совсем не опасной. За судами вы можете увидеть розоватый силуэт скалы Гибралтара.",
+                "dimention": "109 x 131 см",
+                "matherial": "Холст, масло",
+                "year": "1873",
+                "language": "ru"
+                    
+            },
+                {
+                "id": "0009",
+                "pictureName": "Дизайн сцены для Балета Клеопатра",
+                "painter": "Роберт Делоне",
+                "lifeAndCountry": "1885 - 1941, Франция",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stage_Design_for_Cleopatra_MET_DP272854.jpg/1199px-Stage_Design_for_Cleopatra_MET_DP272854.jpg", 
+                "body": "Роберт Делоне был французским художником, который вместе со своей женой Соней Делоне и другими, стал соучредителем художественного движения Орфизм, известного своим использованием ярких цветов и геометрических форм. В 1917 году Делоне познакомился с Сергеем Дягилевым в Мадриде. Роберт спроектировал свою сцену для спектакля «Балет Клеопатра».",
+                "dimention": "34,9 x 47,3 см",
+                "matherial": "Бумага, акварель, гуашь, металлик и графит",
+                "year": "Около 1918",
+                "language": "ru"
+            },   
+            
+            {
+                "id": "0010",
+                "pictureName": "Девочка с персиками",
+                "painter": "Валентин Александрович Серов",
+                "lifeAndCountry": "1865-1911, Россия", 
+                "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Walentin_Alexandrowitsch_Serow_Girl_with_Peaches.jpg",
+                "body": "На картине изображена 11-летняя Вера Мамонтова, дочь российского предпринимателя и мецената Саввы Мамонтова. Она написана в усадьбе Абрамцево недалеко от Москвы. Под владением писателя Сергея Аксакова Абрамцево стало одним из центров русской культуры. Мамонтов купил это место в 1870 году и продолжил традицию. Среди людей, которые остались, были художник Илья Репин, писатель Иван Тургенев, живописец Михаил Врубель, скульптор Марк Антокольский. Художникам было комфортно не только собираться и обсуждать важные темы, но и жить и творить.",
+                "dimention": "91 × 85 cm ",
+                "matherial": "Холст, масло",
+                "year": "1887",
+                "language": "ru"
+           },
+         
+             {
+                "id": "0011",
+                "pictureName": "Белая овца с короной",
+                "painter": "Менаше Кадишман",
+                "lifeAndCountry": "1932 – 2015, Израиль",
+                "image": "https://images.artbrokerage.com/artthumb/kadishman_136718_6/1250x1118/Menashe_Kadishman_White_Sheep_With_Crown_1990_35x28.Large.jpg",
+                "body": "Менаше Кадишман был Израильским художником и скульптором. Его работы выставлены на центральных площадях многих городов Израиля, а его картины - в различных художественных галереях Израиля. В 50-х годах, проходя художественное образование, Менаше Кадишман работал пастухом в кибуце. Этот опыт произвел на него впечатление и повлиял на его искусство, так как он продемонстрировал стаю разноцветных овец во время Венецианской биеннале 1978 года. Это была основная тема его работ.",
+                "dimention": "35 x 28 см",
+                "matherial": "Холст, акрил",
+                "year": "1990",
+                "language": "ru"
+                
+            },    
+                
+        
+                
+            {
+                "id": "0012",
+                "pictureName": "Дама с горностаем",
+                "painter": "Леонардо да Винчи",
+                "lifeAndCountry": "1452 – 1519, Италия", 
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Dama_z_gronostajem.jpg/381px-Dama_z_gronostajem.jpg",
+                "body": "Это портрет Сесилии Галлерани - любовницы Лодовико Сфорца по прозвищу Иль Моро, герцога Миланского. Следуя флорентийским образцам 1470-х годов, Леонардо изобразил свою модель по пояс, получив тем самым возможность показать её руки. С большой психологической точностью передано их движение, позволяющее уловить скрытое душевное влияние. Пальцы Чечилии с трепетной осторожностью ласково касаются шерстки пугливого зверька, горностая, расположившегося в её руках. Хорошая сохранность тех частей картины, на которых изображено женское лицо и фигура горностая, что свидетельствует о высоком уровне мастерства.",
+                "dimention": "54 × 40 см",
+                "matherial": "Дерево, масло",
+                "year": "1489-1490",
+                "language": "ru"
+               
+            },
+                
+            {
+                "id": "0013",
+                "pictureName": "Всадница",
+                "painter": "Карл Брюллов",
+                "lifeAndCountry": "1799 – 1852, Россия",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/1832._BRULLOV_VSADNICA1.jpg",
+                "body": " Молодая всадница в богатом, элегантном наряде, возвращаясь с прогулки, высоко подняв голову, смело и решительно усмиряет коня, который пытается встать на дыбы. И встревоженная маленькая девочка, вцепившись в перила, как заворожённая, смотрит на свою сестру и на происходящие. Маленькая девочка, воплощение ангела. Она в розовом платьице, с красивыми кудрями на голове. И без страха в глазах, как и её старшая сестра. Картина «Всадница» - типичный образец портретной живописи, в которой все задумано как апофеоз красоты и жизнерадостной молодости, как апофеоз безмятежности ощущения жизни, и все это заключено в двух персонажах - юная наездница и маленькая девочка. ",
+                "dimention": "291,5 × 206 см",
+                "matherial": "Холст, масло",
+                "year": "1832",
+                "language": "ru"
+                
+            },
+                    
+                {
+                "id": "0014",
+                "pictureName": "Ваза с цветами",
+                "painter": "Ян Дэвидсон Де Хем",
+                "lifeAndCountry": "1606 – 1684, Нидерланды",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vase_of_Flowers_painting_by_Jan_Davidsz._de_Heem_Mauritshuis_1099.jpg/1200px-Vase_of_Flowers_painting_by_Jan_Davidsz._de_Heem_Mauritshuis_1099.jpg",
+                "body": "Ян Дэвидсон Де Хем был одним из самых одаренных, разносторонних и влиятельных художников-натюрмортов своего времени. Его утонченная техника позволила ему изобразить большое разнообразие текстур, отражающих саму суть предметов, включая лепестки экзотических цветов; длинные гнутые тростники пшеницы; крошечные существа, такие как бабочки, муравьи, улитки и гусеницы; и, наконец, отражающие поверхности стекла. В этой работе Де Хем создает гармоничную композицию, уравновешивая цвета и формы 31 вида цветов, овощей и злаков. Несмотря на иллюзию реальности, этого букета на самом деле никогда не могло быть, поскольку эти разнообразные цветы цвели бы в разное время года.",
+                "dimention": "74,2 x 52,6 см",
+                "matherial": "Холст, масло",
+                "year": "Около 1670",
+                "language": "ru"
+                
+            }, 
+    
+                    
+            {
+                "id": "0015",
+                "pictureName": "Женщина и цветы",
+                "painter": "Мирит Бен-Нун",
+                "lifeAndCountry": "8 of August 1966, Израиль",
+                "image": "https://www.artmajeur.com/medias/hd/d/e/deborah-shallman/artwork/13008821_20200209-095050.jpg",
+                "body": "Мирит Бен-Нун продолжает возвращаться к своему искусству тщательного декорирования. Сильное присутствие примитивного орнамента придает произведениям искусства этническую грань, с одной стороны, и женственность, с другой, включая вышивку, вышивание бисером и ткачество среди прочего. Стремление Бен-Нун к украшению несет в себе архетипические пласты, временами мифические, что придает силы ее подлинному выражению.",
+                "dimention": "35 x 25 см",
+                "matherial": "Тушь, бумага",
+                "year": "2020",
+                "language": "ru"
+            }
+		]

@@ -1,0 +1,35 @@
+[
+     {
+    
+			"info": "Our doors are closed, but there's still lots to explore. From our online collection and talks to our lectures and events – spend some time with the Art Gallery ",
+			"link": "here.",
+			"paymentStatus": "Admission is free.",
+			"status": "Temporary closed.",
+			"bookingStatus": "Tickets available soon. Advance booking is recommended.", 
+			"phoneNumber": "+972(0) 501111111",
+			"address": "Address:",
+			"appartment":"Thanasi Tower, 1st floor",
+			"street":"Ben Yehuda Road, Tel Aviv",
+			"email":"hello_art_gallery@yahoo.com",
+            "videoTitle": "Art Gallery",
+            "language": "en"
+            
+	
+    },
+     {
+     
+			"info": "Наши двери закрыты, но есть еще много интересного. Из нашей онлайн-коллекции и бесед до встреч на наших лекциях и мероприятиях - проведите некоторое время в Арт Галерее здесь ",
+			"link": "здесь.",
+			"paymentStatus": "Вход свободный.",
+			"status": " Временно закрыто.",
+			"bookingStatus": "Билеты скоро будут доступны. Рекомендуется предварительное бронирование.", 
+			"phoneNumber": "+972(0) 501111111",
+			"address": "Адрес:",
+			"appartment":"Башня Танаси, 1-я этаж,",
+			"street":" Бен-Иегуда-Роуд, Тель-Авив",
+			"email":"hello_art_gallery@yahoo.com",
+            "videoTitle": "Арт Галерея",
+            "language": "ru"
+    }
+
+]

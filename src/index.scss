@@ -1,0 +1,128 @@
+ ///////////////global
+ @import"~bootstrap/scss/bootstrap";
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif "Helvetica Neue", Arial,    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+///////////////events
+#more {
+   margin: 10% 40%;
+   }
+   .card-header{
+     color: rgb(2, 39, 2);
+   }
+ #button, 
+ #button1, 
+ #button2 {
+     letter-spacing: 1px;
+     font-size: 10px;
+     display: inline-block;
+     border-radius: 4px;
+     width: 25%;
+     cursor: pointer;
+   }
+.extra-content,
+.extra-content1,
+.extra-content2 {
+    color: rgb(2, 39, 2);
+    font-weight: 500;
+   }
+.blockquote-footer{
+   color: rgb(2, 39, 2); 
+   }
+.card-header{
+     background-color: #e7f1f0;
+     text-align: initial;
+     font-size: 18px;
+   }
+   /////////////about
+.main {
+    background-image: url("./accets/cover.jpg");
+    background-color: #f8f6f6;
+    background-repeat: no-repeat;
+    background-size: cover;
+      }
+
+.art {
+padding: 1rem 1rem;
+}
+
+ .card h5{
+   border-radius: 7px;
+ color:rgb(2, 39, 2);
+   text-shadow: 1px 1px 2px #000000;
+ } 
+.card{
+  border: 1px solid rgba(160, 157, 157, 0.808);
+  color:rgb(2, 39, 2);
+  border-radius: 8px;
+  box-shadow: 6px 9px 5px grey;
+}
+////////////alert
+.alert {
+  border: solid;
+  box-shadow: 9px 9px 5px grey;
+  border-style: inset;
+
+}
+/////////art gallery
+.carousel {
+  border: solid;
+  box-shadow: 9px 9px 5px grey;
+  border-style: inset;
+  background-size: cover;
+  display:flex;
+  position: relative;
+}
+#type{
+  color:white;
+}
+
+.text-truncate {
+  display: block;
+  width: [width];
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+///////////search bar
+.form-outline {
+  text-align: center;
+  justify-content: center;
+  color:rgb(2, 39, 2); 
+}
+//////////////artView
+.container-art {
+   color:rgb(2, 39, 2);
+}
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+ display: flex;
+}
+
+.img {
+   border: 1px solid rgba(117, 115, 115, 0.808);
+   color:rgb(0, 7, 0);
+   border-radius: 8px;
+   box-shadow: 6px 9px 5px grey;
+   margin-bottom: 30px;
+   outline-offset: 3px;
+}
+.login-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 30px;
+}

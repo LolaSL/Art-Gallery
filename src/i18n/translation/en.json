@@ -1,0 +1,110 @@
+{
+
+	"carouselArt": {
+		"title": "WELCOME TO ART GALLERY"
+	},
+	"search": {
+		"searchTitle": "Search a painting"
+	},
+	"alert": {
+		"alertButton": "Information",
+		"announcement": "We are open soon, please keep for updates on our site.",
+		"information": "Information"
+	},
+
+
+	"dashboard": {
+		"title": "Welcome to Dashboard.",
+		"button": "Sign out"
+
+	},
+	"navbar": {
+		"tabs": {
+			"artGallery": "Art Gallery",
+			"collection": "Collection",
+			"pictureInformation": "Picture Information",
+			"events": "Events",
+			"booking": "Booking",
+			"about": "About",
+			"login": "Admin",
+			"dashboard": "Dashboard"
+		}
+	},
+
+"newArt":{
+		"id": "id: ",
+		"name": "",
+		"artist": "Artist: ",
+		"lifeAndCountry": "",
+		"description": "Description: ",
+		"dimention": "Dimentions: ",
+		"matherials": "Matherials: ",
+		"date": "Year: "
+	},
+
+
+	"title": {
+		"1": "NO PICTURES MATCHED TO YOUR CRITERIA",
+		"button": "Back to Collection"
+			},
+	"loader":{
+		"loader": "LOADING...",
+		"notification": "ART  WAS NOT FOUND...",
+		"notification1": "CAROUSEL WAS NOT FOUND...",
+		"notification2": "NO ANY EVENTS..."
+			},
+	"pictureInformation": {
+			"title": "PAINTING INFORMATION"
+		},
+	"pages": {
+		"about": {
+			"title": "ABOUT ART GALLERY",
+			"ourMission": "Our Mission: ",
+			"text": "To study, preserve, represent and popularize the art. To make people's lives better by opening wide access to masterpieces of multinational world art.",
+			"ourValues": "Our Values: ",
+			"text1": "We believe that art, enlightenment and creativity change people's lives for the better. We glorify domestic artists and recognize the great responsibility for the continuation of the Galleries' traditions, that are related to the preservation of the collection for future generations. We consistently adhere to the principles of openness and accessibility.",
+			"subscription": "Subscribe to newsletter and hear about events, collection from Art Gallery",
+			"placeholder1": "Enter First name",
+			"placeholder2": "Enter Last name",
+			"placeholder3": "Enter email address",
+			"submit": "Submit",
+			"label": "First Name",
+			"label1": "Last Name",
+			"label2": "Email address",
+			"error": "First name is required",
+			"error1": "This is field is required minimum 2 symbols.",
+			"error2": "Last name is required",
+			"error3": "Email is required", 
+			"textMuted": "*We will never share your email with anyone else.",
+			"password": "Enter Password",
+			"textMuted1": "*Your password must be 8-20 characters long."
+		},
+		"collection": {
+			"title": "COLLECTION",
+			"button": "Search",
+			"placeholder4": "Search a picture"
+		},
+	
+		"event": {
+			"title": "ART GALLERY'S EVENTS",
+			"cta": {
+				"readMore": "Read more",
+				"readLess": "Read less",
+				"book": "Book Entry Ticket"
+			}
+		},
+		"booking": {
+			"title": "BOOK FREE TIMED ENTRY",
+			"bookingButton": "Ticket available soon // Back to Events",
+			"header": "TRAILER"
+		},
+			"admin": {
+		"title": "Please, log in to dashboard.",
+		"admin": "Enter Username",
+		"password": "Enter Password",
+		"textMuted": "Your password must be 8-20 characters long.",
+		"button": "Log in"
+
+	}
+	}
+}

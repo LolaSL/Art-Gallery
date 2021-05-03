@@ -1,0 +1,39 @@
+[
+    
+  {
+    "id": 1,
+    "name": "Lola",
+    "username": "Shepota",
+    "email": "lola_shepota@mail.ru",
+    "password": "77777777"
+    },
+     {
+    "id": 2,
+    "name": "Sas",
+    "username": "Lavie",
+    "email": "s333lavie@gmail.com",
+     "password": "00001111"
+    },
+     {
+    "id": 3,
+    "name": "Olga",
+    "username": "Mistfork",
+    "email": "art@yahoo.com",
+     "password": "43434343"
+    },
+      {
+    "id": 4,
+    "name": "Slava",
+    "username": "Brekota",
+    "email": "hello@gmail.com",
+     "password": "89898990"
+    },
+        {
+    "id": 5,
+    "name": "Igor",
+    "username": "Shepota",
+    "email": "shepotik@mail.ru",
+     "password": "19181716"
+    }
+
+]
