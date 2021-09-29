@@ -19,7 +19,7 @@ const firebaseApp = {
 };
 
 firebase.initializeApp(firebaseApp);
-// export const db = fb.data();
+export const db = firebase.database();
 
 
 
